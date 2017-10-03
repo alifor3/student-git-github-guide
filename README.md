@@ -6,6 +6,7 @@
     - https://git-scm.com/download/
     - There are different download options for Mac and Windows users.
 - Watch video:
+    - https://vimeo.com/228438613
     - https://vimeo.com/228438192
 - Learn git at codecademy.com (optional):
     - https://www.codecademy.com/learn/learn-git
