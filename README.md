@@ -18,3 +18,5 @@
     - Follow the instructions and create an account.
 - Watch video:
     - https://vimeo.com/228438287
+
+Got file from GitHub
